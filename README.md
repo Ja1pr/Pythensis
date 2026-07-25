@@ -9,7 +9,7 @@ Pythensis is a custom OS written entirely in MicroPython, developed to test the 
 The system is named after ***Python perthensis*** (Pygmy Python) – the smallest python species in the world.
 <p align="center">
   <img src="Gallery/Boot.jpg" alt="Boot screen" width="30%">
-  <img src="Gallery/Main_menu.jpg" alt="Main Menu" width="30%">
+  <img src="Gallery/Main_menu.jpg" alt="Main_Menu" width="30%">
   <img src="Gallery/File_explorer.jpg" alt="File Explorer" width="30%">
 </p>
 
