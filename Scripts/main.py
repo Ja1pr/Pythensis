@@ -16,7 +16,7 @@ def r_menu(s, px, py, c, t=0):
 def console():
     while not button_b.was_pressed():exec(input())
     machine.reset()
-def menu(s, px, py, title="Micro OS"):
+def menu(s, px, py, title="MAIN MENU"):
     oled.clear_oled(draw=0)
     oled_text.add_text(0,0,title[:10],draw=0)
     oled_text.invert_row(0,draw=0)
