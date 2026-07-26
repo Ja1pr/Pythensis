@@ -23,8 +23,8 @@ huge thanks to all who made this project possible
 
 ##  Features
 1. **File Explorer:** See which files are stored on your micro:bit filesystem.
-2.  **UART Video Streamer:** Stream video directly from your PC to the micro:bit OLED screen in real-time! *(Requires a helper Python script on the PC to work)*.
-3.  **Console:** Send Python commands remotely from your PC to the micro:bit. *(Requires a PC script, or use the Serial WebUSB window at https://python.microbit.org/)*.
+2.  **UART Video Streamer:** Stream video directly from your PC to the micro:bit OLED screen in real-time! *(Requires a helper Python script on the PC to work or **Pythensis connect** app)*.
+3.  **Console:** Send Python commands remotely from your PC to the micro:bit. *(Requires a PC script,or **Pythensis connect app**, or use the Serial WebUSB window at https://python.microbit.org/)*.
 4.  **Quit:** This may not seem like a feature, but it shuts down your micro:bit the correct way *(I know you never did it)*.
 
 ##  Architecture
