@@ -7,11 +7,22 @@ Pythensis is a custom OS written entirely in MicroPython, developed to test the 
 **Warning:** If you try editing the code, there is almost a certain chance that it will crash on a `MemoryError` *(trust me, try deleting or adding just one letter in the OS menu title and run it)*.
 
 The system is named after ***Python perthensis*** (Pygmy Python) – the smallest python species in the world.
-<p align="center">
-  <img src="Gallery/Boot.jpg" alt="Boot screen" width="30%">
-  <img src="Gallery/Main_menu.jpg" alt="Main_Menu" width="30%">
-  <img src="Gallery/File_explorer.jpg" alt="File Explorer" width="30%">
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="Gallery/Boot.jpg" alt="Boot screen" width="100%"><br>
+      <sub><b>Boot Screen</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="Gallery/Main_menu.jpg" alt="Main Menu" width="100%"><br>
+      <sub><b>Main Menu</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="Gallery/File_explorer.jpg" alt="File Explorer" width="100%"><br>
+      <sub><b>File Explorer</b></sub>
+    </td>
+  </tr>
+</table>
 
 ## Credits: 
 huge thanks to all who made this project possible
