@@ -40,10 +40,23 @@ huge thanks to all who made this project possible
 
 
 ##  How to Run
-1. Flash standard **MicroPython** onto your micro:bit v1.
-2. Upload `main.py`, `oled.py`, `oled_text.py`, and `stream.py` using **Thonny**, **Mu Editor**, or an online editor **https://python.microbit.org/**
-3. Reset the board. **Pythensis** will boot directly into the `MAIN MENU`
-4. Use button A and B to navigate in menu, press A+B to select (or leave the file exporer)
+1. Flash standard **MicroPython** onto your micro:bit (v1 or v2).
+2. Upload `main.py`, `oled.py`, `oled_text.py`, and `stream.py` to the micro:bit using **Thonny**, **Mu Editor**, or [python.microbit.org](https://python.microbit.org/).
+3. Reset the board — **Pythensis** will boot directly into the `MAIN MENU`.
+4. Use buttons **A** and **B** to navigate the menu, press **A+B** together to select an option (or exit the File Explorer).
+5. Select **Stream Mode** in the Pythensis menu on your micro:bit.
+6. Launch **`pythensis_connect.exe`** on your PC, select the auto-detected COM port, and start streaming video, sharing your screen, or using the shell console!
+
+
+##  Pythensis CONNECT (PC Companion App)
+
+**Pythensis CONNECT** links your PC to your micro:bit over USB, unlocking real-time video streaming, screen sharing, and direct UART console control.
+
+###  Features
+*  **Video Streamer:** Plays any video (`.mp4`, `.avi`...) on the OLED display using high-quality dithering.
+*  **Screen Share:** Streams your PC screen or retro games (like DOOM!) in real time with Auto-Canny and custom resolutions.
+*  **Shell Console:** Send live serial commands directly to your micro:bit.
+* **Docs & Cheatsheet:** Built-in MicroPython cheat sheet and one-click access to [python.microbit.org](https://python.microbit.org/).
 
 ##  License
 
