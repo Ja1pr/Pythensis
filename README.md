@@ -24,7 +24,7 @@ The system is named after ***Python perthensis*** (Pygmy Python) – the smalles
   </tr>
 </table>
 
-[Credits][#Credits]
+[Credits](#credits)
 
 ## Credits: 
 huge thanks to all who made this project possible
