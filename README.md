@@ -24,6 +24,8 @@ The system is named after ***Python perthensis*** (Pygmy Python) – the smalles
   </tr>
 </table>
 
+[Credits][#Credits]
+
 ## Credits: 
 huge thanks to all who made this project possible
 * **[fizban99](https://github.com/fizban99)** – MicroPython I2C SSD1306 driver architecture for micro:bit.
