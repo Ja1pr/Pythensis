@@ -24,7 +24,15 @@ The system is named after ***Python perthensis*** (Pygmy Python) – the smalles
   </tr>
 </table>
 
-[Credits](#credits)
+## Contents
+- [Credits](#credits)
+- [Features](#features)
+- [Architecture](#architecture)
+- [Requirements](#requirements)
+- [How to Run](#how-to-run)
+- [Pythensis CONNECT (PC Companion App)](#pythensis-connect-pc-companion-app)
+  - [Features](#features-1)
+- [License](#license)
 
 ## Credits: 
 huge thanks to all who made this project possible
